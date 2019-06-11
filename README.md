@@ -2,9 +2,21 @@
 Identify and try predict the probability of customers churning in various cases
 
 ## context
-Customer attrition, also known as customer churn, customer turnover, or customer defection, is the loss of clients or customers.
-
-Telephone service companies, Internet service providers, pay TV companies, insurance firms, and alarm monitoring services, often use customer attrition analysis and customer attrition rates as one of their key business metrics  because the cost of retaining an existing customer is far less than acquiring a new one. Companies from these sectors often have customer service branches which attempt to win back defecting clients, because recovered long-term customers can be worth much more to a company than newly recruited clients.
+Customer churn is defined by losing customers or clients.
+Which as in overall companies like mention here telephone
+companies pay numerous amount of money to explore the possible
+reasons and causes to customers churning from the company as for
+voluntary causes such as customer decides to leave or go for another
+service provider or involuntary cause which can be due to natural
+causes that prevent the customer from continuing his/her
+subscriptions, as in overall spending capital over how to keep
+customers satisfied and committing to the company is often less
+costly than exploring new ways to get new customers to replace old
+ones.
+What we’ll be Discussing through this project is the various type of
+customers and how the process of their subscription went through
+out and how that affects the future state of customers on the long
+term and understand analysis of the problem
 
 ## Content
 DataSet & Input:
